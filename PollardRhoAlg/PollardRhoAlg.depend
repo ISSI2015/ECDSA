@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1437417643 source:c:\users\±è¿øÀÏ\documents\codeblocks workspace\src\main.cpp
+	<iostream>
+	"BigIntegerLibrary.hh"
+	"..\include\RhoAlg.h"
+
+1437315262 c:\users\±è¿øÀÏ\documents\codeblocks workspace\include\rhoalg.h
+	"..\include\point.h"
+
+1437377596 c:\users\±è¿øÀÏ\documents\codeblocks workspace\include\point.h
+	"BigIntegerLibrary.hh"
+
+1437377954 c:\users\±è¿øÀÏ\documents\codeblocks workspace\pollardrhoalg\include\biginteger.hh
+	"BigUnsigned.hh"
+
+1272663273 c:\users\±è¿øÀÏ\documents\codeblocks workspace\pollardrhoalg\include\bigunsigned.hh
+	"NumberlikeArray.hh"
+
+1272663273 c:\users\±è¿øÀÏ\documents\codeblocks workspace\pollardrhoalg\include\numberlikearray.hh
+
+1272663273 c:\users\±è¿øÀÏ\documents\codeblocks workspace\pollardrhoalg\include\bigintegerlibrary.hh
+	"NumberlikeArray.hh"
+	"BigUnsigned.hh"
+	"BigInteger.hh"
+	"BigIntegerAlgorithms.hh"
+	"BigUnsignedInABase.hh"
+	"BigIntegerUtils.hh"
+
+1272663273 c:\users\±è¿øÀÏ\documents\codeblocks workspace\pollardrhoalg\include\bigintegeralgorithms.hh
+	"BigInteger.hh"
+
+1272663273 c:\users\±è¿øÀÏ\documents\codeblocks workspace\pollardrhoalg\include\bigunsignedinabase.hh
+	"NumberlikeArray.hh"
+	"BigUnsigned.hh"
+	<string>
+
+1272663273 c:\users\±è¿øÀÏ\documents\codeblocks workspace\pollardrhoalg\include\bigintegerutils.hh
+	"BigInteger.hh"
+	<string>
+	<iostream>
+
+1272663273 c:\users\±è¿øÀÏ\documents\codeblocks workspace\pollardrhoalg\include\biginteger.cc
+	"BigInteger.hh"
+
+1437403002 c:\users\±è¿øÀÏ\documents\codeblocks workspace\pollardrhoalg\include\point.h
+	"BigIntegerLibrary.hh"
+
+1272663273 source:c:\users\±è¿øÀÏ\documents\codeblocks workspace\pollardrhoalg\include\biginteger.cc
+	"BigInteger.hh"
+
+1272663273 source:c:\users\±è¿øÀÏ\documents\codeblocks workspace\pollardrhoalg\include\bigintegeralgorithms.cc
+	"BigIntegerAlgorithms.hh"
+
+1272663273 source:c:\users\±è¿øÀÏ\documents\codeblocks workspace\pollardrhoalg\include\bigintegerutils.cc
+	"BigIntegerUtils.hh"
+	"BigUnsignedInABase.hh"
+
+1272663273 source:c:\users\±è¿øÀÏ\documents\codeblocks workspace\pollardrhoalg\include\bigunsigned.cc
+	"BigUnsigned.hh"
+
+1272663273 source:c:\users\±è¿øÀÏ\documents\codeblocks workspace\pollardrhoalg\include\bigunsignedinabase.cc
+	"BigUnsignedInABase.hh"
+
